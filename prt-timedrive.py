@@ -148,7 +148,7 @@ def PlotData():
     
 
 # Logo Image
-from logoImage import *
+from prt-logo import *
 pic=imageString
 render = tk.PhotoImage(data=pic)
 logo_label = tk.Label(image=render)
