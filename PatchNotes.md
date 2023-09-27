@@ -1,10 +1,13 @@
 # cordax-prtTD
 
 Future Plans
+  - Change time dropdown to a more intuitive clock selection
   - Add development mode with experimental features
   - Add support for Statistics file for battery current
 
-
+Version 1.4 - 09/27/23
+  - Changed Date and Time selections to Calendar and Dropdowns
+  - Current time selector only allows for 30 minute increments
 Version 1.3 - 08/04/23
   - Added GeoBase dataset support
   - Added better error handline for large datasets
